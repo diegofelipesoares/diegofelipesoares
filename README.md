@@ -1,6 +1,6 @@
 # 👋 Olá! Seja bem-vindo ao meu perfil!
 
-Atualmente, atuo no **TSE** como **Gestor de Serviços**, aplicando o **Framework ITIL** na construção, implantação, manutenção e suporte de processos de gestão de serviços. Sou formado em **Ciência da Computação pela UNIP** e possuo pós-graduação em **Análise de Dados e BI, Gestão de Projetos e Engenharia de Software**.
+Atualmente, atuo no **Judiciário Federal** como **Gestor de Serviços**, aplicando o **Framework ITIL** na construção, implantação, manutenção e suporte de processos de gestão de serviços. Sou formado em **Ciência da Computação pela UNIP** e possuo pós-graduação em **Análise de Dados e BI, Gestão de Projetos e Engenharia de Software**.
 
 ## 📌 Certificações
 
