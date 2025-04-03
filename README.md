@@ -22,8 +22,13 @@ No meu trabalho, além da gestão de serviços, sou responsável por desenvolver
 <p>
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/ES6+-yellow?style=flat&logo=javascript&logoColor=black" alt="ES6+" />
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=flat&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat&logo=jquery&logoColor=white" alt="jQuery" />
+  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Ajax-%23007396.svg?style=flat&logo=ajax&logoColor=white" alt="Ajax" />
   <img src="https://img.shields.io/badge/SASS-%23CC6699.svg?style=flat&logo=sass&logoColor=white" alt="SASS" />
   <img src="https://img.shields.io/badge/LESS-%231D365D.svg?style=flat&logo=less&logoColor=white" alt="LESS" />
 </p>
@@ -38,7 +43,6 @@ No meu trabalho, além da gestão de serviços, sou responsável por desenvolver
 ### 🔹 Back-end
 
 <p>
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white" alt="Python" />
 </p>
 
