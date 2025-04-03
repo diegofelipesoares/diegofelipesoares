@@ -13,7 +13,7 @@ Atualmente, atuo no **Judiciário Brasileiro** como **Gestor de Serviços de TI*
 
 ## 💼 Sobre minha atuação
 
-No meu trabalho, além da gestão de serviços, sou responsável por desenvolver **dashboards de BI** para aprimorar a tomada de decisão dos gestores das equipes de tecnologia do tribunal. Também gerencio a ferramenta de suporte à gestão de serviços, garantindo sua **customização e atualização** com metodologias ágeis (**Scrum**).
+No meu trabalho, além da gestão de serviços das práticas já implantadas de **Requisição, Inciente, Catálogo de Serviços, Problema, Conhecimento e Mudança**, sou responsável por desenvolver **dashboards de BI** para aprimorar a tomada de decisão dos gestores das equipes de tecnologia do tribunal e mensurar os KPIs. Também gerencio a ferramenta de suporte à gestão de serviços, garantindo sua **customização e atualização** com metodologias ágeis (**Scrum**).
 
 ## 🚀 Tecnologias
 
