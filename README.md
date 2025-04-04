@@ -72,6 +72,7 @@ No meu trabalho, além da gestão de serviços das práticas já implantadas de 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=diegofelipesoares&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
+</p>
 
 Atualmente, estou aprofundando meus estudos em **Python pela ASIMOV e EBAC**.
 
