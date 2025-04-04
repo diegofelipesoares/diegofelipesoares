@@ -100,7 +100,7 @@ Também gerencio as **customizações e parametrizações** da ferramenta de sup
         align="right" 
         alt="Top Languages" 
         height="200" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegofelipesoares&layout=compact&theme=tokyonight" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegofelipesoares&layout=compact&theme=tokyonight&custom_title=Tecnologias" 
       />
     </td>
   </tr>
