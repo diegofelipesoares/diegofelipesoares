@@ -1,84 +1,118 @@
 # 👋 Olá! Seja bem-vindo ao meu perfil!
 
-Atualmente, atuo no **Judiciário Brasileiro** como **Gestor de Serviços de TI**, aplicando o **Framework ITIL** na construção, implantação, manutenção e suporte de processos de gestão de serviços. Sou formado em **Ciência da Computação pela UNIP** e possuo pós-graduação em **Análise de Dados e BI, Gestão de Projetos e Engenharia de Software**.
+Atualmente, atuo no **Judiciário Brasileiro** como **Gestor de Serviços de TI**, aplicando o **Framework ITIL** na construção, implantação, manutenção e suporte de processos de gestão de serviços.  
+Sou formado em **Ciência da Computação pela UNIP** e possuo pós-graduação em **Análise de Dados e BI**, **Gestão de Projetos** e **Engenharia de Software**.
+
+---
 
 ## 📌 Certificações
 
 <p>
-  <img src="https://img.shields.io/badge/ITIL%20V3-Foundation-blue" alt="ITIL V3 Foundation" />
-  <img src="https://img.shields.io/badge/ITIL%20V3-OSA-blue" alt="ITIL V3 OSA" />
-  <img src="https://img.shields.io/badge/CTFL-Certified%20Tester-orange" alt="CTFL" />
-  <img src="https://img.shields.io/badge/Scrum-Master-green" alt="Scrum Master" />
+  <img src="https://img.shields.io/badge/ITIL%20V3-Foundation-blue" />
+  <img src="https://img.shields.io/badge/ITIL%20V3-OSA-blue" />
+  <img src="https://img.shields.io/badge/CTFL-Certified%20Tester-orange" />
+  <img src="https://img.shields.io/badge/Scrum-Master-green" />
 </p>
+
+---
 
 ## 💼 Sobre minha atuação
 
-No meu trabalho, além da gestão de serviços das práticas já implantadas de **Requisição, Inciente, Catálogo de Serviços, Problema, Conhecimento e Mudança**, sou responsável por desenvolver **dashboards de BI** para aprimorar a tomada de decisão dos gestores das equipes de tecnologia do tribunal e mensurar os KPIs. Também gerencio a ferramenta de suporte à gestão de serviços, garantindo sua **customização e atualização** com metodologias ágeis (**Scrum**).
+Atuo na gestão de serviços com foco nas práticas de **Requisição, Incidente, Catálogo de Serviços, Problema, Conhecimento e Mudança**.  
+Desenvolvo **dashboards de BI** para apoiar a tomada de decisões estratégicas e monitorar KPIs.  
+Também gerencio a ferramenta de suporte à gestão de serviços, realizando **customizações e atualizações** com o uso de **Scrum**.
+
+---
 
 ## 🚀 Tecnologias
 
-### 🔹 Front-end
+<details>
+<summary><strong>🔹 Front-end</strong></summary>
 
 <p>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/ES6+-yellow?style=flat&logo=javascript&logoColor=black" alt="ES6+" />
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=flat&logo=vuedotjs&logoColor=white" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat&logo=jquery&logoColor=white" alt="jQuery" />
-  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Ajax-%23007396.svg?style=flat&logo=ajax&logoColor=white" alt="Ajax" />
-  <img src="https://img.shields.io/badge/SASS-%23CC6699.svg?style=flat&logo=sass&logoColor=white" alt="SASS" />
-  <img src="https://img.shields.io/badge/LESS-%231D365D.svg?style=flat&logo=less&logoColor=white" alt="LESS" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/ES6+-yellow?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=flat&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat&logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ajax-%23007396.svg?style=flat&logo=ajax&logoColor=white" />
+  <img src="https://img.shields.io/badge/SASS-%23CC6699.svg?style=flat&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/LESS-%231D365D.svg?style=flat&logo=less&logoColor=white" />
 </p>
+</details>
 
-### 🔹 Ferramentas de Automação
+<details>
+<summary><strong>🔹 Back-end e Scripts</strong></summary>
 
 <p>
-  <img src="https://img.shields.io/badge/Gulp-%23CF4647.svg?style=flat&logo=gulp&logoColor=white" alt="Gulp" />
-  <img src="https://img.shields.io/badge/Grunt-%23FAA918.svg?style=flat&logo=grunt&logoColor=black" alt="Grunt" />
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white" />
 </p>
+</details>
 
-### 🔹 Back-end
+<details>
+<summary><strong>🔹 Automação e Build</strong></summary>
 
 <p>
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Gulp-%23CF4647.svg?style=flat&logo=gulp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grunt-%23FAA918.svg?style=flat&logo=grunt&logoColor=black" />
 </p>
+</details>
 
-### 🔹 Controle de Versão
+<details>
+<summary><strong>🔹 Análise de Dados</strong></summary>
 
 <p>
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Oracle%20Analytics-%23F80000.svg?style=flat&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Data%20Studio-%234285F4.svg?style=flat&logo=googleanalytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=flat&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-%23E97627.svg?style=flat&logo=tableau&logoColor=white" />
 </p>
+</details>
 
-### 🔹 Ferramentas de Análise de Dados
+<details>
+<summary><strong>🔹 Controle de Versão</strong></summary>
 
 <p>
-  <img src="https://img.shields.io/badge/Oracle%20Analytics-%23F80000.svg?style=flat&logo=oracle&logoColor=white" alt="Oracle Analytics" />
-  <img src="https://img.shields.io/badge/Google%20Data%20Studio-%234285F4.svg?style=flat&logo=googleanalytics&logoColor=white" alt="Google Data Studio" />
-  <img src="https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=flat&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Tableau-%23E97627.svg?style=flat&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white" />
 </p>
+</details>
 
-### 📊 Estatísticas
+---
 
-<img 
-  align="left" 
-  alt="GitHub Stats" 
-  height="200" 
-  style="padding-right: 10px;" 
-  src="https://github-readme-stats.vercel.app/api?username=diegofelipesoares&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-/>
+## 📊 Estatísticas e Tecnologias Mais Usadas
 
-Atualmente, estou aprofundando meus estudos em **Python pela ASIMOV e EBAC**.
+<table>
+  <tr>
+    <td>
+      <img 
+        align="left" 
+        alt="GitHub Stats" 
+        height="200" 
+        src="https://github-readme-stats.vercel.app/api?username=diegofelipesoares&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+      />
+    </td>
+    <td>
+      <img 
+        align="right" 
+        alt="Top Languages" 
+        height="200" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegofelipesoares&layout=compact&theme=tokyonight" 
+      />
+    </td>
+  </tr>
+</table>
+
+---
+
+📘 Atualmente, estou aprofundando meus estudos em **Python pela ASIMOV e EBAC**.
 
 ---
 
 ## 📫 Vamos nos conectar?
 
-Caso queira trocar ideias sobre **ITIL, BI, Desenvolvimento Web ou Python**, entre em contato:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Diego%20Soares-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/diegosoares7/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Diego%20Soares-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/diegosoares7/)  
 [![Gmail](https://img.shields.io/badge/Gmail-diegofelipesoares%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:diegofelipesoares@gmail.com)
