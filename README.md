@@ -64,28 +64,21 @@ No meu trabalho, além da gestão de serviços das práticas já implantadas de 
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=diegofelipesoares&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-</p>
-<p>
+<img 
+  align="left" 
+  alt="GitHub Stats" 
+  height="200" 
+  style="padding-right: 10px;" 
+  src="https://github-readme-stats.vercel.app/api?username=diegofelipesoares&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+/>
+
 Atualmente, estou aprofundando meus estudos em **Python pela ASIMOV e EBAC**.
+
+---
 
 ## 📫 Vamos nos conectar?
 
 Caso queira trocar ideias sobre **ITIL, BI, Desenvolvimento Web ou Python**, entre em contato:
 
-</p>
-<p>
-  <a href="https://www.linkedin.com/in/diegosoares7/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Diego%20Soares-blue?style=flat&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:diegofelipesoares@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-diegofelipesoares%40gmail.com-red?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Diego%20Soares-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/diegosoares7/)
+[![Gmail](https://img.shields.io/badge/Gmail-diegofelipesoares%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:diegofelipesoares@gmail.com)
