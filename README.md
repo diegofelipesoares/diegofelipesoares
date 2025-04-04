@@ -18,7 +18,7 @@ Sou formado em **Ciência da Computação pela UNIP** e possuo pós-graduação 
 
 ## 💼 Sobre minha atuação
 
-Atuo na gestão de serviços com foco nas práticas de **Requisição, Incidente, Catálogo de Serviços, Problema, Conhecimento e Mudança**.  
+Atuo na gestão de serviços com foco nas práticas atualmente implantadas de **Requisição, Incidente, Catálogo de Serviços, Problema, Conhecimento e Mudança**.  
 Desenvolvo **dashboards de BI** para apoiar a tomada de decisões estratégicas e monitorar KPIs.  
 Também gerencio as **customizações e parametrizações** da ferramenta de suporte à gestão de serviços, através do framework ágil, **Scrum**.
 
