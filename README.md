@@ -73,13 +73,14 @@ No meu trabalho, além da gestão de serviços das práticas já implantadas de 
     src="https://github-readme-stats.vercel.app/api?username=diegofelipesoares&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 </p>
-
+<p>
 Atualmente, estou aprofundando meus estudos em **Python pela ASIMOV e EBAC**.
 
 ## 📫 Vamos nos conectar?
 
 Caso queira trocar ideias sobre **ITIL, BI, Desenvolvimento Web ou Python**, entre em contato:
 
+</p>
 <p>
   <a href="https://www.linkedin.com/in/diegosoares7/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Diego%20Soares-blue?style=flat&logo=linkedin" alt="LinkedIn" />
