@@ -26,7 +26,7 @@ Também gerencio a ferramenta de suporte à gestão de serviços, realizando **c
 
 ## 🚀 Tecnologias
 
-<details>
+<details open>
 <summary><strong>🔹 Front-end</strong></summary>
 
 <p>
@@ -44,7 +44,7 @@ Também gerencio a ferramenta de suporte à gestão de serviços, realizando **c
 </p>
 </details>
 
-<details>
+<details open>
 <summary><strong>🔹 Back-end e Scripts</strong></summary>
 
 <p>
@@ -52,7 +52,7 @@ Também gerencio a ferramenta de suporte à gestão de serviços, realizando **c
 </p>
 </details>
 
-<details>
+<details open>
 <summary><strong>🔹 Automação e Build</strong></summary>
 
 <p>
@@ -61,7 +61,7 @@ Também gerencio a ferramenta de suporte à gestão de serviços, realizando **c
 </p>
 </details>
 
-<details>
+<details open>
 <summary><strong>🔹 Análise de Dados</strong></summary>
 
 <p>
@@ -72,7 +72,7 @@ Também gerencio a ferramenta de suporte à gestão de serviços, realizando **c
 </p>
 </details>
 
-<details>
+<details open>
 <summary><strong>🔹 Controle de Versão</strong></summary>
 
 <p>
