@@ -62,6 +62,17 @@ No meu trabalho, além da gestão de serviços das práticas já implantadas de 
   <img src="https://img.shields.io/badge/Tableau-%23E97627.svg?style=flat&logo=tableau&logoColor=white" alt="Tableau" />
 </p>
 
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=diegofelipesoares&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
 Atualmente, estou aprofundando meus estudos em **Python pela ASIMOV e EBAC**.
 
 ## 📫 Vamos nos conectar?
