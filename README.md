@@ -33,6 +33,7 @@ Também gerencio as **customizações e parametrizações** da ferramenta de sup
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/ES6+-yellow?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Babel-transpiler-yellow?style=flat&logo=babel&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=flat&logo=vuedotjs&logoColor=white" />
